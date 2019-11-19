@@ -15,7 +15,7 @@ each GCP project we support.
 
 For details on what is included in each service level, including details on
 levels of support for each GCP service, download our
-:download:`Rackspace Managed Services for Google Cloud Platform Service Overview <../assets/service_overview.pdf>`.
+`Rackspace Managed Services for Google Cloud Platform Service Overview <https://9d31a28d75515373cbe0-39a001adc5755d26f84687a5d61bbba1.ssl.cf1.rackcdn.com/GCP%20files/service_overview.pdf>`_.
 
 Aviator Response Time SLAs
 --------------------------
@@ -48,4 +48,4 @@ within 4 hours of submission.
   the Runway service offering.
 * Runway project tickets related to Google Cloud Platform infrastructure or
   other categories of issues are considered on-demand support and require
-  payment of a service fee for Rackspace to address.  
+  payment of a service fee for Rackspace to address.
