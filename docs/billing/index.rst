@@ -3,7 +3,7 @@
 Billing
 =======
 
-When you signup for Managed Services for Google Cloud Platform, Rackspace will
+When you sign up for Managed Services for Google Cloud Platform, Rackspace will
 become your reseller of GCP services. This means that all billing of both
 infrastructure and management charges is provided through a consolidated
 Rackspace bill, and you do not have to maintain a payment relationship for
