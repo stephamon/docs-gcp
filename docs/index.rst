@@ -29,21 +29,10 @@ To sign up, visit
   ------------
 
   You can download a PDF version of this documentation by
-  |link-pre|\ |version|\ |link-post|. Note that we frequently update our
+  `clicking here <https://9d31a28d75515373cbe0-39a001adc5755d26f84687a5d61bbba1.ssl.cf1.rackcdn.com/GCP%20files/fanaticalsupportforgcpproductguide.pdf>`_.
+  Note that we frequently update our
   documentation so we encourage you to check back periodically for the latest
   information.
-
-.. |link-pre| raw:: html
-
-    <a href="pdfs/rackspace_managed_services_for_google_cloud_platform_product_guide_
-
-.. |link-post| raw:: html
-
-    .pdf">clicking here</a>
-
-.. |vspace| raw:: latex
-
-    \vspace{10mm}
 
 ----
 
