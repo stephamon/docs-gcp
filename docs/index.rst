@@ -4,6 +4,8 @@
 Fanatical Support for GCP Product Guide
 =======================================
 
+*Last updated:* |today|
+
 .. only:: latex
 
   **IMPORTANT:** This is a PDF version of the Product Guide, and is intended
