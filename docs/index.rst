@@ -40,11 +40,11 @@ To sign up, visit
    :maxdepth: 2
 
    self
-   getting_started/index.rst
-   gcp_projects/index.rst
-   service_levels/index.rst
-   service_blocks/index.rst
+   getting-started-gcp/index.rst
+   gcp-projects/index.rst
+   service-levels/index.rst
+   service-blocks/index.rst
    billing/index.rst
-   access_and_permissions/index.rst
+   access-and-permissions/index.rst
    security/index.rst
    support/index.rst
